@@ -1,4 +1,4 @@
-# Simple Kubernetes Workshop
+# Simple Kubernetes Tutorial Workshop
 
 In this workshop, we'll create these Kubernetes resources:
 
